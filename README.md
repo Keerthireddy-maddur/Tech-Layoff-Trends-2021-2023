@@ -30,9 +30,9 @@ Once the data was cleaned, the story began to unfold:
 These companies topped the charts for the highest total layoffs, with Amazon leading the way with 18,150 layoffs over the last three years.
 
 ## Key Takeaways & Lessons Learned
--This analysis reveals an important lesson—businesses must prioritize more than just securing funding. It’s essential to build sustainable business models, implement adaptable workforce strategies, and ensure 
- market resilience. Companies that focus on financial sustainability and strategic workforce planning are more likely to weather future challenges and emerge stronger.
+- This analysis reveals an important lesson—businesses must prioritize more than just securing funding. It’s essential to build sustainable business models, implement adaptable workforce strategies, and ensure 
+  market resilience. Companies that focus on financial sustainability and strategic workforce planning are more likely to weather future challenges and emerge stronger.
 
--The layoff crisis of 2023 underscores the need for companies to not only innovate but also to plan effectively for long-term success. Companies that understand the importance of building a robust and adaptable 
- workforce will be better equipped to navigate uncertainty and sustain growth in a constantly evolving market.
+- The layoff crisis of 2023 underscores the need for companies to not only innovate but also to plan effectively for long-term success. Companies that understand the importance of building a robust and adaptable 
+  workforce will be better equipped to navigate uncertainty and sustain growth in a constantly evolving market.
 
