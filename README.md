@@ -9,15 +9,15 @@ To explore this, I analyzed a dataset of global layoffs from 2021 to 2023. The d
 ## Key Insights from the Data
 Once the data was cleaned, the story began to unfold:
 
-### 1.Massive layoffs weren't exclusive to struggling startups.
+### 1. Massive layoffs weren't exclusive to struggling startups.
   Some of the biggest companies—those with billions of dollars raised—were laying off employees just as aggressively as smaller, less-established firms. For example, Quibi, which raised over $2 billion, shut down 
   completely, resulting in a 100% layoff rate. This demonstrated that funding alone isn't enough to guarantee survival in today's volatile market.
 
-### 2.2023 saw the highest number of layoffs, especially in January.
+### 2. 2023 saw the highest number of layoffs, especially in January.
   The United States led the world in layoffs, with tech and media industries bearing the brunt. Surprisingly, companies in later funding stages (like those post-IPO) also experienced significant layoffs, proving 
   that even well-established companies aren’t immune to market shifts.
 
-### 3.San Francisco Bay Area was heavily impacted.
+### 3. San Francisco Bay Area was heavily impacted.
   A shocking 30 companies in the region laid off all of their employees, indicating a significant concentration of layoffs in that location.
 
 ## Top Layoff Companies:
